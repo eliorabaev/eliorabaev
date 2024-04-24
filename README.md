@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 📫 How to reach me **elior.abaev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elior-abaev-a4b1b6286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elior abaev" height="30" width="40" /></a>
