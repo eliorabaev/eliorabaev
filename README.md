@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliorabaev&label=Profile%20views&color=0e75b6&style=flat" alt="eliorabaev" /> </p>
 
-- 🔭 I’m currently working as QA at [payngo](https://payngo.co.il)
+- 🔭 I’m currently working as QA and Web Designer at [payngo](https://payngo.co.il)
 
 - 🌱 I’m currently learning **Computer Science**
 
