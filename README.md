@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as QA and Web Designer at [payngo](https://payngo.co.il)
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Computer Science** and **Full Stack Development***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
