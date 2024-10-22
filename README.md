@@ -3,7 +3,7 @@
 I'm a dedicated and highly motivated Computer Science student at HIT (Holon Institute of Technology), with a strong foundation in Python, C++, SQL, and full-stack web development. I have a passion for problem-solving and a drive to contribute to innovative projects that make an impact.
 
 ## 👨‍🎓 Education:
-- **B.Sc. Computer Science**, Holon Institute of Technology (HIT)
+- **B.Sc. Computer Science Student**, Holon Institute of Technology (HIT)
 
 ## 💼 Experience:
 - **Quality Assurance & Web Designer at Electra Consumer Products Ltd**
