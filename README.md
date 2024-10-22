@@ -1,37 +1,24 @@
-<h1 align="center">Hi , I'm Elior</h1>
-<h3 align="center">A passionate B.Sc Computer Science Student</h3>
+# Hi, I'm Elior!
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=eliorabaev&label=Profile%20views&color=0e75b6&style=flat" alt="eliorabaev" />
-</p>
+I'm a dedicated and highly motivated Computer Science student at HIT (Holon Institute of Technology), with a strong foundation in Python, C++, SQL, and full-stack web development. I have a passion for problem-solving and a drive to contribute to innovative projects that make an impact.
 
--  I’m currently working as QA and Web Designer at [payngo](https://payngo.co.il)
--  I’m currently learning **Computer Science** and **Full Stack Development**
+## 👨‍🎓 Education:
+- **B.Sc. Computer Science**, Holon Institute of Technology (HIT)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/elior-abaev-a4b1b6286/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elior abaev" height="30" width="40" />
-  </a>
-</p>
+## 💼 Experience:
+- **Quality Assurance & Web Designer at Electra Consumer Products Ltd**
+   - Improved website functionality and user engagement, performed functional testing, and designed user-friendly features.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+## 💻 Technical Skills:
+- **Languages:** Python, C++, C#, SQL
+- **Web Development:** React, Node.js, Express.js, HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, npm, Material-UI, TypeScript
+
+## 🛠️ Programming Languages:
+- **Python:** Used for scripting, data analysis, web development, and machine learning projects.
+- **C++:** Applied in system programming, game development, and performance-critical applications.
+- **C#:** Utilized in Windows application development, game development with Unity, and enterprise software.
+- **SQL:** Employed for database management, querying, and data manipulation.
 
 ## 🛠️ Projects:
 
@@ -58,4 +45,9 @@
 ### [Simon Says Game](https://github.com/eliorabaev/Simon-Game)
    - **Description:** A memory challenge game built with HTML, CSS, and JavaScript.
    - **Features:** Four colored buttons, randomly generated sequences, audio cues, visual feedback, increasing difficulty levels, and a game over state with restart functionality.
-   - **Tech Stack:** HTML, 
+   - **Tech Stack:** HTML, CSS, JavaScript, jQuery.
+
+## 🌐 Languages:
+- Hebrew (Native), English and Russian (Fluent)
+
+I'm always open to learning new technologies and connecting with like-minded professionals.
