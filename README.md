@@ -6,9 +6,9 @@ I'm a motivated Computer Science student at HIT, with a strong foundation in Pyt
 - **B.Sc. Computer Science Student**, Holon Institute of Technology (HIT)
 
 ## 💼 Experience:
-- **Full Stack Developer at Electra Consumer Products Ltd** (Nov 2024 – Current)
+- **Front-End Developer at Electra Consumer Products Ltd** (Nov 2024 – Current)
   - Optimized the payngo.co.il website using Magento 2.
-- **Quality Assurance & Web Designer at Electra Consumer Products Ltd** (Feb 2022 – Current)
+- **Quality Assurance & Web Designer at Electra Consumer Products Ltd** (Feb 2022 – Nov 2024)
   - Reported and fixed critical bugs, enhancing website functionality.
   - Led design and implementation of user-friendly features.
 
