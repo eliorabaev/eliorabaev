@@ -1,4 +1,4 @@
-# Hi, I'm Elior!
+# Hi, I'm Elior
 
 I'm a Full Stack Developer.
 
@@ -9,7 +9,7 @@ I'm a Full Stack Developer.
 - **Languages:** Python, C++, C#, SQL, PHP
 - **Web Development:** React, Node.js, Express.js, HTML, CSS, JavaScript, Magento 2
 - **Tools:** Git, GitHub, npm, Material-UI, Bitbucket, PHPStorm
-- 
+  
 ## 🌐 Languages:
 - Hebrew (Native), English and Russian (Fluent)
 
