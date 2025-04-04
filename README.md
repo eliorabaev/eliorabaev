@@ -8,8 +8,8 @@ Full Stack Developer with expertise in modern web technologies and a passion for
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, JavaScript, HTML5, CSS3, Material-UI
-**Backend:** Node.js, Express, FastAPI, Python, PHP
+**Frontend:** React, JavaScript, HTML5, CSS3, Material-UI  
+**Backend:** Node.js, Express, FastAPI, Python, PHP  
 **Databases:** MySQL, SQL  
 **DevOps:** Docker, Docker Compose  
 **Cloud:** AWS (EC2, ECR, IAM)  
