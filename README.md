@@ -107,7 +107,6 @@ I specialize in Magento 2 development with expertise in:
 - Performance optimization techniques
 - Payment gateway integrations
 - System upgrades and migrations
-- Security hardening and PCI compliance
 
 ## 🌍 Languages
 
