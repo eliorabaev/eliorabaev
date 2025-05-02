@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliorabaev&theme=tokyonight" alt="eliorabaev" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eliorabaev&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
 </p>
 
