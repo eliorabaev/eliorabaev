@@ -1,7 +1,7 @@
 # Elior Abaev | Full Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/eliorabaev?style=social)](https://github.com/eliorabaev?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eliorabaev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elior-abaev)
 [![Profile Views](https://komarev.com/ghpvc/?username=eliorabaev&color=brightgreen)](https://github.com/eliorabaev)
 
 ## 📊 GitHub Analytics
@@ -117,7 +117,7 @@ I specialize in Magento 2 development with expertise in:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/eliorabaev](https://www.linkedin.com/in/eliorabaev)
+- 💼 LinkedIn: [linkedin.com/in/eliorabaev](https://www.linkedin.com/in/elior-abaev)
 ---
 
 ⭐ From [eliorabaev](https://github.com/eliorabaev)
